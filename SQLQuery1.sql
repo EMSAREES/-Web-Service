@@ -1,0 +1,17 @@
+CREATE DATABASE Biblioteca
+GO
+USE Biblioteca
+GO
+CREATE TABLE Libros(
+id INT PRIMARY KEY IDENTITY(1,1),
+ISBN INT NOT NULL,
+Titulo VARCHAR(150) NOT NULL,
+Autor VARCHAR(150) NOT NULL,
+Genero VARCHAR(150)NOT NULL
+)
+GO
+
+select * from Libros;
+
+insert into Libros VALUES (123, 'COMER', 'GERMAN', 'HOMBRE')
+

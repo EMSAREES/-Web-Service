@@ -1,0 +1,11 @@
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\bin\Debug\ConsumirWS.exe.config
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\bin\Debug\ConsumirWS.exe
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\bin\Debug\ConsumirWS.pdb
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.FRMLibros.resources
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.Properties.Resources.resources
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.csproj.GenerateResource.cache
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.exe
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.pdb
+C:\Users\emili\OneDrive\Documentos\Taller web server\ConsumirWS\ConsumirWS\obj\Debug\ConsumirWS.form_buscar.resources
